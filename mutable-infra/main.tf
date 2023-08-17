@@ -9,4 +9,4 @@ module "cart" {
   APP_PORT               = var.APP_PORT
   APP_VERSION            = var.APP_VERSION
   LB_TYPE                = var.LB_TYPE
-}
+} 
